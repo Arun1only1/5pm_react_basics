@@ -1,0 +1,30 @@
+.sub-div {
+  border: 1px solid black;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+  padding: 1rem;
+  width: 400px;
+  max-height: 600px;
+  margin-right: 10px;
+}
+
+.main-header {
+  color: red;
+  font-size: 2rem;
+}
+
+.data-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.title {
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.value {
+  margin-left: 5px;
+}
